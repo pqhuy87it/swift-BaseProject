@@ -1,9 +1,3 @@
-//
-//  Language.swift
-//  BaseProject
-//
-//  Created by mybkhn on 2020/12/29.
-//
 
 import Foundation
 

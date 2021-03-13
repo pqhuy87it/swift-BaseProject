@@ -6,6 +6,7 @@ inhibit_all_warnings!
 def app_pods
     pod 'Alamofire'
     pod 'RealmSwift'
+    pod 'SwiftyJSON'
     # pod 'AlamofireImage', '~> 4.0'
     # pod 'AsyncSwift', '~> 2.0'
     # pod 'Device', '~> 3.0'
