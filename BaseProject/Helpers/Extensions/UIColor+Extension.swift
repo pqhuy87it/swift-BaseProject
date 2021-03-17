@@ -1,10 +1,3 @@
-//
-//  UIColor+Extension.swift
-//  YuuchoBanking
-//
-//  Created by HuyPQ on 2019/04/17.
-//  Copyright © 2019 fujitsu. All rights reserved.
-//
 
 import Foundation
 import UIKit

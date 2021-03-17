@@ -1,10 +1,3 @@
-//
-//  Notifications.swift
-//  N3Vocabulary
-//
-//  Created by mybkhn on 2020/08/19.
-//  Copyright © 2020 Huy Pham Quang. All rights reserved.
-//
 
 import Foundation
 import UIKit

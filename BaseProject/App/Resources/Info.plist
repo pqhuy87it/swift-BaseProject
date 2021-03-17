@@ -74,5 +74,14 @@
 		<string>MPLUS1p-Thin.ttf</string>
 		<string>KosugiMaru-Regular.ttf</string>
 	</array>
+	<!-- iPad Orientation -->
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+	<!-- Light Mode -->
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
 </dict>
 </plist>

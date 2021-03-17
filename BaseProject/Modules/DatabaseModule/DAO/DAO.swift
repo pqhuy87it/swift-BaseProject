@@ -1,10 +1,3 @@
-//
-//  DAO.swift
-//  YuuchoBanking
-//
-//  Created by HuyPQ on 2019/07/18.
-//  Copyright © 2019 fujitsu. All rights reserved.
-//
 
 import Foundation
 import RealmSwift

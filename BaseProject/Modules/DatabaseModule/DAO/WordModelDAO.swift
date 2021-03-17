@@ -1,10 +1,3 @@
-//
-//  WordModelDAO.swift
-//  N3Vocabulary
-//
-//  Created by Huy Pham Quang on 2020/03/21.
-//  Copyright © 2020 Huy Pham Quang. All rights reserved.
-//
 
 import Foundation
 

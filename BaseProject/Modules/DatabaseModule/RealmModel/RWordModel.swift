@@ -1,10 +1,4 @@
 //
-//  RWordObject.swift
-//  N3Vocabulary
-//
-//  Created by Huy Pham Quang on 3/8/20.
-//  Copyright © 2020 Huy Pham Quang. All rights reserved.
-//
 
 import Foundation
 import RealmSwift

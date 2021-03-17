@@ -1,10 +1,3 @@
-//
-//  WordRepository.swift
-//  N3Vocabulary
-//
-//  Created by mybkhn on 2020/03/16.
-//  Copyright © 2020 Huy Pham Quang. All rights reserved.
-//
 
 import Foundation
 

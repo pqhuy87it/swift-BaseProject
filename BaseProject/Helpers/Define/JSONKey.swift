@@ -11,6 +11,8 @@ struct JSONKey {
     static let transactionDate = "transaction_date"
     static let userID = "userID"
     static let accessToken = "accessToken"
+    static let refreshToken = "refresh_token"
+    static let grantType                = "grant_type"
     static let responseType = "response_type"
     static let clientId = "client_id"
     static let redirectUri = "redirect_uri"
