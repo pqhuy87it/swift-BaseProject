@@ -18,6 +18,6 @@ enum k {
 
     // AES key config
     public static let aesKey = "AESKey"
-    public static let keyForRealm = "N3Vocalbulary app hoc tieng nhat"
+    public static let keyForRealm = "keyForRealm"
 }
 
