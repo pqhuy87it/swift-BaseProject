@@ -29,6 +29,7 @@
 		644733B4260214C9004B4913 /* UIButton+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 644733B3260214C9004B4913 /* UIButton+Extension.swift */; };
 		644733B92602162E004B4913 /* CGPoint+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 644733B82602162E004B4913 /* CGPoint+Extension.swift */; };
 		644733BE260216A4004B4913 /* CGSize+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 644733BD260216A4004B4913 /* CGSize+Extension.swift */; };
+		644733C326021787004B4913 /* CGRect+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 644733C226021787004B4913 /* CGRect+Extension.swift */; };
 		645834882599F7EB00F9BE00 /* CustomBarButtonItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 645834872599F7EB00F9BE00 /* CustomBarButtonItem.swift */; };
 		6458348D2599F80E00F9BE00 /* AlignmentButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6458348C2599F80E00F9BE00 /* AlignmentButton.swift */; };
 		64583496259ACA0500F9BE00 /* UIColor+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64583495259ACA0500F9BE00 /* UIColor+Extension.swift */; };
@@ -106,6 +107,7 @@
 		644733B3260214C9004B4913 /* UIButton+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIButton+Extension.swift"; sourceTree = "<group>"; };
 		644733B82602162E004B4913 /* CGPoint+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGPoint+Extension.swift"; sourceTree = "<group>"; };
 		644733BD260216A4004B4913 /* CGSize+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGSize+Extension.swift"; sourceTree = "<group>"; };
+		644733C226021787004B4913 /* CGRect+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGRect+Extension.swift"; sourceTree = "<group>"; };
 		645834872599F7EB00F9BE00 /* CustomBarButtonItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomBarButtonItem.swift; sourceTree = "<group>"; };
 		6458348C2599F80E00F9BE00 /* AlignmentButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlignmentButton.swift; sourceTree = "<group>"; };
 		64583495259ACA0500F9BE00 /* UIColor+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
@@ -373,6 +375,7 @@
 				644733B3260214C9004B4913 /* UIButton+Extension.swift */,
 				644733B82602162E004B4913 /* CGPoint+Extension.swift */,
 				644733BD260216A4004B4913 /* CGSize+Extension.swift */,
+				644733C226021787004B4913 /* CGRect+Extension.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -761,6 +764,7 @@
 				64583500259ADB5800F9BE00 /* RSettingModel.swift in Sources */,
 				640C0F492599F2B700203C16 /* StoryBoards.swift in Sources */,
 				644733B92602162E004B4913 /* CGPoint+Extension.swift in Sources */,
+				644733C326021787004B4913 /* CGRect+Extension.swift in Sources */,
 				64583496259ACA0500F9BE00 /* UIColor+Extension.swift in Sources */,
 				64583542259AFF8F00F9BE00 /* Constants.swift in Sources */,
 				644733BE260216A4004B4913 /* CGSize+Extension.swift in Sources */,
